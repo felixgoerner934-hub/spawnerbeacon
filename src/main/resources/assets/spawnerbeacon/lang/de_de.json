@@ -1,0 +1,14 @@
+{
+  "key.category.spawnerbeacon.main": "SpawnerBeacon",
+  "key.spawnerbeacon.open_menu": "Menü öffnen",
+  "screen.spawnerbeacon.title": "SpawnerBeacon Einstellungen",
+  "screen.spawnerbeacon.enabled_on": "Strahlen: AN",
+  "screen.spawnerbeacon.enabled_off": "Strahlen: AUS",
+  "screen.spawnerbeacon.thickness": "Dicke",
+  "screen.spawnerbeacon.opacity": "Deckkraft",
+  "screen.spawnerbeacon.height": "Höhe (Y)",
+  "screen.spawnerbeacon.default_color": "Standardfarbe",
+  "screen.spawnerbeacon.reset": "Zurücksetzen",
+  "screen.spawnerbeacon.types_title": "Farbe pro Spawner-Art (Hex, z. B. #FF0000)",
+  "screen.spawnerbeacon.type.other": "Sonstige"
+}
