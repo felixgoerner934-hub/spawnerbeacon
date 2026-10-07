@@ -19,11 +19,10 @@ jobs:
           gradle-version: current
 
       - name: Build
-        working-directory: spawnerbeacon
         run: gradle build --no-daemon
 
       - name: Upload jar
         uses: actions/upload-artifact@v4
         with:
           name: SpawnerBeacon-jar
-          path: spawnerbeacon/build/libs/*.jar
+          path: build/libs/*.jar
